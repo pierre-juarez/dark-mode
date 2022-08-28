@@ -1,29 +1,17 @@
-# vue-dark-mode
+# Dark Mode with TailwindCSS & VueJS
 
-This template should help get you started developing with Vue 3 in Vite.
+_Dark mode page made with TailwindCSS & VueJS, with validation of user preferences and saving of preferences in LocalStorage.👀_
 
-## Recommended IDE Setup
+I leave you here a demo: <a href="https://darkmode-vue-tailwind.netlify.app" target="_blank">https://darkmode-vue-tailwind.netlify.app</a>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Desktop Version
 
-## Customize configuration
+![Desktop Version](src/assets/img/screenshots/desktop.png?raw=true "Desktop Version")
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Mobile Version
 
-## Project Setup
+![Desktop Version](src/assets/img/screenshots/mobile.png?raw=true "Mobile Version")
 
-```sh
-npm install
-```
+## Credits
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+⌨️ Developed with ♥️ by [Pierre Juarez](https://github.com/pierre-juarez) 😊
